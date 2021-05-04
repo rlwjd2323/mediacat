@@ -1,3 +1,7 @@
 __pycache__
 runCrawler.sh
 .vscode
+*.txt
+*.csv
+*.h5
+*.pickle
