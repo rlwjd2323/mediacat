@@ -5,4 +5,4 @@ def predict_sentiment(sentence):
     return Sentiment().run_predict(sentence) 
 
 
-print(predict_sentiment("시간 때우기에 좋음"))
+print(predict_sentiment("진짜 짜증남"))

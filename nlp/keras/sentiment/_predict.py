@@ -13,10 +13,10 @@ tagger = Mecab()
 #     return re.sub('[-=+,#/\?:^$.@*\"※~&%ㆍ!』\\‘|\(\)\[\]\<\>`\'…》△▲\"\'◆■●■◇]', '', sentence.replace(' ',''))
 
 
-tokenizer_path = "/mnt/d/workpython/workspace/keras/sentiment/tokenizer/tokenizer.pickle"
-glove_path = "/mnt/d/workpython/workspace/keras/sentiment/embedding/glove/glove.6B.100d.txt"
+tokenizer_path = "/mnt/d/workpython/workspace/mediacat/nlp/keras/sentiment/tokenizer/tokenizer.pickle"
+glove_path = "/mnt/d/workpython/workspace/mediacat/nlp/keras/sentiment/glove/glove.6B.100d.txt"
 max_len = 49
-model_path = "/mnt/d/workpython/workspace/keras/sentiment/model/model.h5"
+model_path = "/mnt/d/workpython/workspace/mediacat/nlp/keras/sentiment/model/model.h5"
 
 
 
